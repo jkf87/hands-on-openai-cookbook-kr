@@ -3,3 +3,10 @@
 
 # 문의
 [코난쌤](https://www.youtube.com/@conanssam)
+
+# 진행상황
+1. ipynb 노트북 번역
+- third_party/GPT_finetuning_with_wandb.ipynb 번역 실패
+- .py 파일 번역하지 않음
+2. vector_databases 추후 번역 예정
+  
